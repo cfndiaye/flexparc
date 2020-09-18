@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T11:12:08.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="MXKPs_CEuKkfY_US2DBM" version="13.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-18T11:15:56.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="2BKd9KrDnI1TmCc8HkTR" version="13.7.2" type="github">
   <diagram id="mOglNG7emXXcJzI9o_os" name="Page-1">
     <mxGraphModel dx="1038" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -301,6 +301,9 @@
           <mxGeometry x="0.12" y="-2" relative="1" as="geometry">
             <mxPoint x="-14" y="-22" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5qJ8bxsvsPaX8CGawFrf-29" value="Cheikh faye Ndiaye&lt;br style=&quot;font-size: 17px;&quot;&gt;Tel: 77 542 24 20" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="80" y="1060" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
